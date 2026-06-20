@@ -3,7 +3,6 @@
 # 💫 About Me
  
 <div align="center">
-## Walter Onyango
  
 **Software Developer · Security Enthusiast · Technical Writer**
  
