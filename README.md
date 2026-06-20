@@ -66,8 +66,8 @@ When I'm not writing code, I'm writing articles on dev.to or breaking my Linux s
 ---
  
 ## 🚀 Projects
- 
-| | Project | What it does | Stack |
+
+| Project | What it does | Stack |
 |---|---|---|
 | **MeshGuard** | Resilience layer for Lightning payments on unreliable networks — 2nd place at Kisumu Lightning Dev Bootcamp | Go, LND, Bitcoin Core, React, WebSockets |
 | **KeepSafe** | Personal safety mobile app with real-time features | React Native, Node.js/Express, TypeScript |
@@ -76,7 +76,7 @@ When I'm not writing code, I'm writing articles on dev.to or breaking my Linux s
 | **push-swap** | Two-stack sorting with BFS optimal solver | Go |
 | **Vaultly** | Password manager with secure auth | Firebase Auth |
 | **NETWATCH** (In progress)| WiFi access manager with admin dashboard | Go, React/Vite |
-| **Givly** | Blockchain-based donation platform (frontend) | React, Next.js |
+| **Givly**(Paused) | Blockchain-based donation platform (frontend) | React, Next.js |
 | **OSINT CLI** | Passive reconnaissance tool for cybersecurity coursework | Go |
 | **ascii-art / ascii-art-web** | Text-to-ASCII art converter, containerized | Go, Docker (multi-stage Alpine) |
 ---
