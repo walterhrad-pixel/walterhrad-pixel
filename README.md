@@ -3,7 +3,7 @@
 # 💫 About Me
  
 <div align="center">
- 
+WALTER ONYANGO 
 **Software Developer · Security Enthusiast · Technical Writer**
  
 *Building from the ground up — one project at a time.*
@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walterhrad@gmail.com)
  
 </div>
----
  
 ## About
  
@@ -22,8 +21,6 @@ I'm a software development apprentice at **Zone01 Kisumu**, Kenya — a peer-dri
 I came in with zero prior experience. Now I build backend systems in Go, wrangle APIs, containerize things that shouldn't break, and write about it all publicly. My direction is **cybersecurity**, **cloud security**, and **AI/ML in security contexts** — I'm working toward that intersection deliberately.
  
 When I'm not writing code, I'm writing articles on dev.to or breaking my Linux setup.
- 
----
  
 ## 💻 Tech Stack
  
@@ -62,9 +59,7 @@ When I'm not writing code, I'm writing articles on dev.to or breaking my Linux s
  
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![Lightning Network](https://img.shields.io/badge/Lightning_Network-792EE5?style=flat&logo=lightning&logoColor=white)
- 
----
- 
+
 ## 🚀 Projects
 
 | Project | What it does | Stack |
@@ -79,7 +74,6 @@ When I'm not writing code, I'm writing articles on dev.to or breaking my Linux s
 | **Givly**(Paused) | Blockchain-based donation platform (frontend) | React, Next.js |
 | **OSINT CLI** | Passive reconnaissance tool for cybersecurity coursework | Go |
 | **ascii-art / ascii-art-web** | Text-to-ASCII art converter, containerized | Go, Docker (multi-stage Alpine) |
----
  
 ## ✍️ Writing
  
@@ -89,8 +83,6 @@ Recent topics include Lightning Network development, Go backend patterns, and bu
  
 → [Read on dev.to](https://dev.to/walteronyango)
  
----
- 
 ## 📊 GitHub Stats
  
 ![](https://github-readme-stats.vercel.app/api?username=walterhrad-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -98,8 +90,6 @@ Recent topics include Lightning Network development, Go backend patterns, and bu
 ![](https://streak-stats.demolab.com/?user=walterhrad-pixel&theme=dark&hide_border=false)
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walterhrad-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
----
  
 ## 🎯 Currently
  
