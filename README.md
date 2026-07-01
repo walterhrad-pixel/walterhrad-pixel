@@ -4,6 +4,7 @@
  
 <div align="center">
 WALTER ONYANGO 
+
 **Software Developer · Security Enthusiast · Technical Writer**
  
 *Building from the ground up — one project at a time.*
