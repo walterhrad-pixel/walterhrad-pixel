@@ -10,7 +10,7 @@ WALTER ONYANGO
 *Building from the ground up — one project at a time.*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-onyango-785589402)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/walteronyango)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/blakcodes)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walterhrad@gmail.com)
  
 </div>
@@ -82,7 +82,7 @@ I write technical articles on **dev.to** — mostly about things I've actually b
  
 Recent topics include Lightning Network development, Go backend patterns, and building in a peer-learning environment.
  
-→ [Read on dev.to](https://dev.to/walteronyango)
+→ [Read on dev.to](https://dev.to/blakcodes)
  
 ## 📊 GitHub Stats
  
